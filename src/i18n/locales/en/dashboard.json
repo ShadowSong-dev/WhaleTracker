@@ -1,0 +1,27 @@
+{
+  "nav": {
+    "overview": "Overview",
+    "whales": "Whales",
+    "alerts": "Alerts",
+    "transactions": "Transactions",
+    "settings": "Settings"
+  },
+  "header": {
+    "search": "Search address or token…",
+    "addWhale": "Add whale"
+  },
+  "metrics": {
+    "trackedWhales": "Tracked wallets",
+    "alertsToday": "Alerts today",
+    "totalVolume": "24h on-chain volume",
+    "activeTokens": "Active tokens",
+    "trendUp": "+{{value}}% vs yesterday",
+    "trendDown": "{{value}}% vs yesterday"
+  },
+  "panels": {
+    "liveFeed": "Live feed",
+    "topWhales": "Active whales",
+    "thresholdAlerts": "Threshold alerts",
+    "empty": "No data yet"
+  }
+}

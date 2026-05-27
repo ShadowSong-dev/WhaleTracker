@@ -1,0 +1,27 @@
+{
+  "app": {
+    "name": "WhaleTracker",
+    "tagline": "Real-time whale wallet monitoring"
+  },
+  "actions": {
+    "import": "Import CSV",
+    "export": "Export",
+    "add": "Add",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "refresh": "Refresh",
+    "viewAll": "View all",
+    "settings": "Settings"
+  },
+  "lang": {
+    "label": "Language",
+    "zh": "中文",
+    "en": "English"
+  },
+  "status": {
+    "live": "Live",
+    "paused": "Paused",
+    "loading": "Loading…"
+  }
+}

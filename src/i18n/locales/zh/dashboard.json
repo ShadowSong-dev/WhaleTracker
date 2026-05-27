@@ -1,0 +1,27 @@
+{
+  "nav": {
+    "overview": "总览",
+    "whales": "鲸鱼列表",
+    "alerts": "告警",
+    "transactions": "交易流",
+    "settings": "设置"
+  },
+  "header": {
+    "search": "搜索地址或代币…",
+    "addWhale": "添加鲸鱼"
+  },
+  "metrics": {
+    "trackedWhales": "监控钱包",
+    "alertsToday": "今日告警",
+    "totalVolume": "24h 链上流量",
+    "activeTokens": "活跃代币",
+    "trendUp": "较昨日 +{{value}}%",
+    "trendDown": "较昨日 {{value}}%"
+  },
+  "panels": {
+    "liveFeed": "实时交易流",
+    "topWhales": "活跃鲸鱼榜",
+    "thresholdAlerts": "阈值告警",
+    "empty": "暂无数据"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "app": {
+    "name": "WhaleTracker",
+    "tagline": "鲸鱼钱包实时监控"
+  },
+  "actions": {
+    "import": "导入 CSV",
+    "export": "导出",
+    "add": "添加",
+    "save": "保存",
+    "cancel": "取消",
+    "delete": "删除",
+    "refresh": "刷新",
+    "viewAll": "查看全部",
+    "settings": "设置"
+  },
+  "lang": {
+    "label": "语言",
+    "zh": "中文",
+    "en": "English"
+  },
+  "status": {
+    "live": "实时",
+    "paused": "已暂停",
+    "loading": "加载中…"
+  }
+}
